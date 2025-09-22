@@ -55,6 +55,5 @@
 </table>
 
 <p>Testfailid asuvad kaustas <code>/__tests__/</code> või komponentide kõrval. Kõik testid on käivitatavad käsuga <code>npm test</code>.</p>
-</table>
 
-<p>Testfailid asuvad kaustas <code>/__tests__/</code> või komponentide kõrval. Kõik testid on käivitatavad käsuga <code>npm test</code>.</p>
+<h2>Stop</h2>
