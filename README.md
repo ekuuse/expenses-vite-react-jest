@@ -43,7 +43,7 @@
       <td>5</td>
       <td><code>Vigase sisendi veateated</code></td>
       <td>Kontrollida, et vigase sisendi puhul (nt vale hind või kuupäev) kuvatakse veateade</td>
-      <td>Kuvatakse veateade "Palun sisesta kehtiv pealkiri, hind või kuupäev"</td>
+      <td>Kuvatakse veateade "Please enter a valid title or amount or date (do not leave any fields empty)"</td>
     </tr>
     <tr>
       <td>6</td>
